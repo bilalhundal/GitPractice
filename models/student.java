@@ -1,2 +1,3 @@
 class student{
+  int rollNo;
 }
