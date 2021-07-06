@@ -1,2 +1,3 @@
 this is example of new text
 this is only practice of git command
+END!!!
