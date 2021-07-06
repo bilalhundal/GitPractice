@@ -1,2 +1,2 @@
-this is example of new text
-this is only practice of git command
+1:this is example of new text
+2:this is only practice of git command
