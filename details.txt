@@ -1,8 +1,4 @@
 <<<<<<< HEAD
 1:this is example of new text
 2:this is only practice of git command
-=======
-this is example of new text
-this is only practice of git command
 END!!!
->>>>>>> 55c251f534b6ca561a8c73aa61bfffef7d9b9ad6
